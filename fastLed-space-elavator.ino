@@ -4,7 +4,7 @@
 
 #include "FastLED.h"
 
-#define NUM_STRIPS 8
+#define NUM_STRIPS 7
 
 #define NUM_LEDS_PER_STRIP 34
 #define NUM_LEDS NUM_LEDS_PER_STRIP * NUM_STRIPS
